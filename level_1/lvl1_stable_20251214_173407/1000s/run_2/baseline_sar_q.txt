@@ -1,0 +1,5 @@
+Linux 6.8.0-90-generic (theredhothabanero) 	14.12.2025 	_x86_64_	(8 CPU)
+
+18:12:04      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+18:12:09            0       574      0,15      0,04      0,36         1
+Среднее:         0       574      0,15      0,04      0,36         1

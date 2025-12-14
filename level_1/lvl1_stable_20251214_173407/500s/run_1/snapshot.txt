@@ -1,0 +1,5 @@
+### TIME: 2025-12-14T17:46:33,001253638+03:00
+               total        used        free      shared  buff/cache   available
+Память:      5,7Gi       477Mi       5,1Gi       7,0Mi       141Mi       5,0Gi
+Подкачка:      2,0Gi       855Mi       1,2Gi
+PID not available or not running

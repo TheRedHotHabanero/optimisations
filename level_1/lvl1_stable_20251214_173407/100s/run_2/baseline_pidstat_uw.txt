@@ -1,0 +1,25 @@
+Linux 6.8.0-90-generic (theredhothabanero) 	14.12.2025 	_x86_64_	(8 CPU)
+
+17:36:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:36:10     1000      5743    2,00    0,00    0,00    0,00    2,00     6  app_linux_amd64
+
+17:36:08      UID       PID   cswch/s nvcswch/s  Command
+17:36:10     1000      5743      0,00      0,00  app_linux_amd64
+
+17:36:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:36:12     1000      5743    2,00    0,50    0,00    0,00    2,50     6  app_linux_amd64
+
+17:36:10      UID       PID   cswch/s nvcswch/s  Command
+17:36:12     1000      5743      0,00      0,00  app_linux_amd64
+
+17:36:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:36:14     1000      5743    1,50    0,00    0,00    0,00    1,50     6  app_linux_amd64
+
+17:36:12      UID       PID   cswch/s nvcswch/s  Command
+17:36:14     1000      5743      0,00      0,00  app_linux_amd64
+
+Среднее:   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Среднее:  1000      5743    1,83    0,17    0,00    0,00    2,00     -  app_linux_amd64
+
+Среднее:   UID       PID   cswch/s nvcswch/s  Command
+Среднее:  1000      5743      0,00      0,00  app_linux_amd64

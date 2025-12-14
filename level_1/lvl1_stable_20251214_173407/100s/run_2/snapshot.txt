@@ -1,0 +1,8 @@
+### TIME: 2025-12-14T17:37:59,767638065+03:00
+               total        used        free      shared  buff/cache   available
+Память:      5,7Gi       2,9Gi       1,9Gi        23Mi       944Mi       2,5Gi
+Подкачка:      2,0Gi       715Mi       1,3Gi
+    PID    PPID CMD                         %CPU %MEM     ELAPSED STAT
+   5743    1435 ./app_linux_amd64           14.5 40.2       03:52 Sl+
+  11
+LISTEN 0      4096               *:8080            *:*          

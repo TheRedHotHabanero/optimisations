@@ -1,0 +1,1151 @@
+Linux 6.8.0-90-generic (theredhothabanero) 	14.12.2025 	_x86_64_	(8 CPU)
+
+17:38:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:12     1000      5743   12,50    5,00    0,00    0,00   17,50     1  app_linux_amd64
+
+17:38:10      UID       PID   cswch/s nvcswch/s  Command
+17:38:12     1000      5743    240,00      0,00  app_linux_amd64
+
+17:38:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:14     1000      5743   13,00    4,50    0,00    0,00   17,50     1  app_linux_amd64
+
+17:38:12      UID       PID   cswch/s nvcswch/s  Command
+17:38:14     1000      5743    439,00      0,00  app_linux_amd64
+
+17:38:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:16     1000      5743   11,00    5,50    0,00    0,00   16,50     1  app_linux_amd64
+
+17:38:14      UID       PID   cswch/s nvcswch/s  Command
+17:38:16     1000      5743      0,00      0,00  app_linux_amd64
+
+17:38:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:18     1000      5743   12,00    4,50    0,00    0,00   16,50     3  app_linux_amd64
+
+17:38:16      UID       PID   cswch/s nvcswch/s  Command
+17:38:18     1000      5743    227,50      0,00  app_linux_amd64
+
+17:38:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:20     1000      5743   13,00    5,00    0,00    0,00   18,00     1  app_linux_amd64
+
+17:38:18      UID       PID   cswch/s nvcswch/s  Command
+17:38:20     1000      5743    445,00      0,00  app_linux_amd64
+
+17:38:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:22     1000      5743   12,00    5,50    0,00    0,00   17,50     1  app_linux_amd64
+
+17:38:20      UID       PID   cswch/s nvcswch/s  Command
+17:38:22     1000      5743    304,50      0,00  app_linux_amd64
+
+17:38:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:24     1000      5743   12,50    4,50    0,00    0,00   17,00     1  app_linux_amd64
+
+17:38:22      UID       PID   cswch/s nvcswch/s  Command
+17:38:24     1000      5743    204,50      0,00  app_linux_amd64
+
+17:38:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:26     1000      5743   14,00    4,50    0,00    0,00   18,50     1  app_linux_amd64
+
+17:38:24      UID       PID   cswch/s nvcswch/s  Command
+17:38:26     1000      5743    164,50      0,00  app_linux_amd64
+
+17:38:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:28     1000      5743   12,50    5,50    0,00    0,00   18,00     1  app_linux_amd64
+
+17:38:26      UID       PID   cswch/s nvcswch/s  Command
+17:38:28     1000      5743      4,00      0,00  app_linux_amd64
+
+17:38:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:30     1000      5743   12,50    4,50    0,00    0,00   17,00     1  app_linux_amd64
+
+17:38:28      UID       PID   cswch/s nvcswch/s  Command
+17:38:30     1000      5743    326,00      0,00  app_linux_amd64
+
+17:38:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:32     1000      5743   12,50    4,00    0,00    0,00   16,50     1  app_linux_amd64
+
+17:38:30      UID       PID   cswch/s nvcswch/s  Command
+17:38:32     1000      5743    397,00      0,00  app_linux_amd64
+
+17:38:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:34     1000      5743   13,50    4,50    0,00    0,00   18,00     1  app_linux_amd64
+
+17:38:32      UID       PID   cswch/s nvcswch/s  Command
+17:38:34     1000      5743    421,50      0,00  app_linux_amd64
+
+17:38:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:36     1000      5743   12,50    4,50    0,00    0,00   17,00     1  app_linux_amd64
+
+17:38:34      UID       PID   cswch/s nvcswch/s  Command
+17:38:36     1000      5743    401,00      0,00  app_linux_amd64
+
+17:38:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:38     1000      5743   13,50    4,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:38:36      UID       PID   cswch/s nvcswch/s  Command
+17:38:38     1000      5743    325,50      0,00  app_linux_amd64
+
+17:38:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:40     1000      5743   11,50    4,50    0,00    0,00   16,00     1  app_linux_amd64
+
+17:38:38      UID       PID   cswch/s nvcswch/s  Command
+17:38:40     1000      5743    487,00      0,00  app_linux_amd64
+
+17:38:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:42     1000      5743   14,00    4,00    0,00    0,00   18,00     1  app_linux_amd64
+
+17:38:40      UID       PID   cswch/s nvcswch/s  Command
+17:38:42     1000      5743    413,00      0,00  app_linux_amd64
+
+17:38:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:44     1000      5743   12,00    5,00    0,00    0,00   17,00     6  app_linux_amd64
+
+17:38:42      UID       PID   cswch/s nvcswch/s  Command
+17:38:44     1000      5743    393,50      0,00  app_linux_amd64
+
+17:38:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:46     1000      5743   14,50    4,00    0,00    0,00   18,50     1  app_linux_amd64
+
+17:38:44      UID       PID   cswch/s nvcswch/s  Command
+17:38:46     1000      5743    170,50      0,00  app_linux_amd64
+
+17:38:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:48     1000      5743   13,50    4,00    0,00    0,00   17,50     1  app_linux_amd64
+
+17:38:46      UID       PID   cswch/s nvcswch/s  Command
+17:38:48     1000      5743    147,00      0,00  app_linux_amd64
+
+17:38:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:50     1000      5743   13,50    4,50    0,00    0,00   18,00     1  app_linux_amd64
+
+17:38:48      UID       PID   cswch/s nvcswch/s  Command
+17:38:50     1000      5743    303,00      0,00  app_linux_amd64
+
+17:38:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:52     1000      5743   14,50    4,00    0,00    0,00   18,50     1  app_linux_amd64
+
+17:38:50      UID       PID   cswch/s nvcswch/s  Command
+17:38:52     1000      5743    342,50      0,00  app_linux_amd64
+
+17:38:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:54     1000      5743   15,50    3,00    0,00    0,00   18,50     6  app_linux_amd64
+
+17:38:52      UID       PID   cswch/s nvcswch/s  Command
+17:38:54     1000      5743    269,00      0,00  app_linux_amd64
+
+17:38:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:56     1000      5743   14,00    2,50    0,00    0,00   16,50     6  app_linux_amd64
+
+17:38:54      UID       PID   cswch/s nvcswch/s  Command
+17:38:56     1000      5743    409,00      0,00  app_linux_amd64
+
+17:38:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:38:58     1000      5743   14,50    3,00    0,00    0,00   17,50     1  app_linux_amd64
+
+17:38:56      UID       PID   cswch/s nvcswch/s  Command
+17:38:58     1000      5743    461,00      0,00  app_linux_amd64
+
+17:38:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:00     1000      5743   13,00    4,00    0,00    0,00   17,00     1  app_linux_amd64
+
+17:38:58      UID       PID   cswch/s nvcswch/s  Command
+17:39:00     1000      5743      7,00      0,00  app_linux_amd64
+
+17:39:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:02     1000      5743   14,50    4,00    0,00    0,00   18,50     1  app_linux_amd64
+
+17:39:00      UID       PID   cswch/s nvcswch/s  Command
+17:39:02     1000      5743    312,50      0,00  app_linux_amd64
+
+17:39:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:04     1000      5743   13,00    4,00    0,00    0,00   17,00     6  app_linux_amd64
+
+17:39:02      UID       PID   cswch/s nvcswch/s  Command
+17:39:04     1000      5743    433,00      0,00  app_linux_amd64
+
+17:39:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:06     1000      5743   12,00    5,00    0,00    0,00   17,00     6  app_linux_amd64
+
+17:39:04      UID       PID   cswch/s nvcswch/s  Command
+17:39:06     1000      5743    442,50      0,00  app_linux_amd64
+
+17:39:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:08     1000      5743   14,00    5,00    0,00    0,00   19,00     6  app_linux_amd64
+
+17:39:06      UID       PID   cswch/s nvcswch/s  Command
+17:39:08     1000      5743    378,00      0,00  app_linux_amd64
+
+17:39:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:10     1000      5743   13,50    4,50    0,00    0,00   18,00     4  app_linux_amd64
+
+17:39:08      UID       PID   cswch/s nvcswch/s  Command
+17:39:10     1000      5743    208,00      0,00  app_linux_amd64
+
+17:39:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:12     1000      5743   14,50    3,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:39:10      UID       PID   cswch/s nvcswch/s  Command
+17:39:12     1000      5743    281,50      0,00  app_linux_amd64
+
+17:39:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:14     1000      5743   13,50    4,00    0,00    0,00   17,50     4  app_linux_amd64
+
+17:39:12      UID       PID   cswch/s nvcswch/s  Command
+17:39:14     1000      5743    461,50      0,00  app_linux_amd64
+
+17:39:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:16     1000      5743   12,00    4,50    0,00    0,00   16,50     5  app_linux_amd64
+
+17:39:14      UID       PID   cswch/s nvcswch/s  Command
+17:39:16     1000      5743    481,50      0,50  app_linux_amd64
+
+17:39:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:18     1000      5743   14,00    4,00    0,00    0,00   18,00     7  app_linux_amd64
+
+17:39:16      UID       PID   cswch/s nvcswch/s  Command
+17:39:18     1000      5743    356,50      0,50  app_linux_amd64
+
+17:39:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:20     1000      5743   14,00    4,50    0,00    0,00   18,50     4  app_linux_amd64
+
+17:39:18      UID       PID   cswch/s nvcswch/s  Command
+17:39:20     1000      5743    468,50      0,00  app_linux_amd64
+
+17:39:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:22     1000      5743   13,00    4,50    0,00    0,00   17,50     7  app_linux_amd64
+
+17:39:20      UID       PID   cswch/s nvcswch/s  Command
+17:39:22     1000      5743    209,50      0,00  app_linux_amd64
+
+17:39:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:24     1000      5743   14,00    4,00    0,00    0,00   18,00     0  app_linux_amd64
+
+17:39:22      UID       PID   cswch/s nvcswch/s  Command
+17:39:24     1000      5743    383,50      0,50  app_linux_amd64
+
+17:39:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:26     1000      5743   15,00    3,50    0,00    0,00   18,50     7  app_linux_amd64
+
+17:39:24      UID       PID   cswch/s nvcswch/s  Command
+17:39:26     1000      5743    361,50      0,00  app_linux_amd64
+
+17:39:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:28     1000      5743   13,00    4,00    0,00    0,00   17,00     7  app_linux_amd64
+
+17:39:26      UID       PID   cswch/s nvcswch/s  Command
+17:39:28     1000      5743    423,00      0,00  app_linux_amd64
+
+17:39:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:30     1000      5743   14,50    4,00    0,00    0,00   18,50     7  app_linux_amd64
+
+17:39:28      UID       PID   cswch/s nvcswch/s  Command
+17:39:30     1000      5743    377,50      0,50  app_linux_amd64
+
+17:39:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:32     1000      5743   12,50    4,50    0,00    0,00   17,00     7  app_linux_amd64
+
+17:39:30      UID       PID   cswch/s nvcswch/s  Command
+17:39:32     1000      5743    342,00      0,00  app_linux_amd64
+
+17:39:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:34     1000      5743   14,00    5,00    0,00    0,00   19,00     7  app_linux_amd64
+
+17:39:32      UID       PID   cswch/s nvcswch/s  Command
+17:39:34     1000      5743    465,00      0,00  app_linux_amd64
+
+17:39:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:36     1000      5743   13,00    4,50    0,00    0,00   17,50     7  app_linux_amd64
+
+17:39:34      UID       PID   cswch/s nvcswch/s  Command
+17:39:36     1000      5743    531,00      0,00  app_linux_amd64
+
+17:39:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:38     1000      5743   14,50    4,00    0,00    0,00   18,50     7  app_linux_amd64
+
+17:39:36      UID       PID   cswch/s nvcswch/s  Command
+17:39:38     1000      5743    453,00      0,00  app_linux_amd64
+
+17:39:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:40     1000      5743   14,00    4,50    0,00    0,00   18,50     7  app_linux_amd64
+
+17:39:38      UID       PID   cswch/s nvcswch/s  Command
+17:39:40     1000      5743    457,00      0,00  app_linux_amd64
+
+17:39:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:42     1000      5743   12,00    4,50    0,00    0,00   16,50     7  app_linux_amd64
+
+17:39:40      UID       PID   cswch/s nvcswch/s  Command
+17:39:42     1000      5743    352,50      0,00  app_linux_amd64
+
+17:39:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:44     1000      5743   12,50    4,50    0,00    0,00   17,00     2  app_linux_amd64
+
+17:39:42      UID       PID   cswch/s nvcswch/s  Command
+17:39:44     1000      5743    406,00      0,00  app_linux_amd64
+
+17:39:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:46     1000      5743   14,00    4,00    0,00    0,00   18,00     6  app_linux_amd64
+
+17:39:44      UID       PID   cswch/s nvcswch/s  Command
+17:39:46     1000      5743    348,50      0,00  app_linux_amd64
+
+17:39:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:48     1000      5743   14,50    4,00    0,00    0,00   18,50     2  app_linux_amd64
+
+17:39:46      UID       PID   cswch/s nvcswch/s  Command
+17:39:48     1000      5743    360,50      0,00  app_linux_amd64
+
+17:39:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:50     1000      5743   13,00    4,50    0,00    0,00   17,50     6  app_linux_amd64
+
+17:39:48      UID       PID   cswch/s nvcswch/s  Command
+17:39:50     1000      5743    393,00      0,00  app_linux_amd64
+
+17:39:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:52     1000      5743   12,50    4,00    0,00    0,00   16,50     2  app_linux_amd64
+
+17:39:50      UID       PID   cswch/s nvcswch/s  Command
+17:39:52     1000      5743    289,00      0,00  app_linux_amd64
+
+17:39:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:54     1000      5743   14,50    4,50    0,00    0,00   19,00     2  app_linux_amd64
+
+17:39:52      UID       PID   cswch/s nvcswch/s  Command
+17:39:54     1000      5743    484,50      0,00  app_linux_amd64
+
+17:39:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:56     1000      5743   13,50    4,00    0,00    0,00   17,50     4  app_linux_amd64
+
+17:39:54      UID       PID   cswch/s nvcswch/s  Command
+17:39:56     1000      5743    446,50      0,00  app_linux_amd64
+
+17:39:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:39:58     1000      5743   14,50    4,50    0,00    0,00   19,00     4  app_linux_amd64
+
+17:39:56      UID       PID   cswch/s nvcswch/s  Command
+17:39:58     1000      5743    324,00      0,00  app_linux_amd64
+
+17:39:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:00     1000      5743   14,50    4,50    0,00    0,00   19,00     5  app_linux_amd64
+
+17:39:58      UID       PID   cswch/s nvcswch/s  Command
+17:40:00     1000      5743    541,00      0,00  app_linux_amd64
+
+17:40:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:02     1000      5743   13,00    5,00    0,00    0,00   18,00     5  app_linux_amd64
+
+17:40:00      UID       PID   cswch/s nvcswch/s  Command
+17:40:02     1000      5743    366,50      0,00  app_linux_amd64
+
+17:40:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:04     1000      5743   13,00    4,50    0,00    0,00   17,50     5  app_linux_amd64
+
+17:40:02      UID       PID   cswch/s nvcswch/s  Command
+17:40:04     1000      5743    426,00      0,00  app_linux_amd64
+
+17:40:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:06     1000      5743   16,00    4,00    0,00    0,00   20,00     5  app_linux_amd64
+
+17:40:04      UID       PID   cswch/s nvcswch/s  Command
+17:40:06     1000      5743    356,00      0,00  app_linux_amd64
+
+17:40:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:08     1000      5743   15,00    4,50    0,00    0,00   19,50     5  app_linux_amd64
+
+17:40:06      UID       PID   cswch/s nvcswch/s  Command
+17:40:08     1000      5743    386,00      0,00  app_linux_amd64
+
+17:40:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:10     1000      5743   14,00    5,00    0,00    0,00   19,00     5  app_linux_amd64
+
+17:40:08      UID       PID   cswch/s nvcswch/s  Command
+17:40:10     1000      5743    329,00      0,00  app_linux_amd64
+
+17:40:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:12     1000      5743   14,50    5,00    0,00    0,00   19,50     5  app_linux_amd64
+
+17:40:10      UID       PID   cswch/s nvcswch/s  Command
+17:40:12     1000      5743    371,00      0,50  app_linux_amd64
+
+17:40:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:14     1000      5743   13,50    4,50    0,00    0,00   18,00     5  app_linux_amd64
+
+17:40:12      UID       PID   cswch/s nvcswch/s  Command
+17:40:14     1000      5743    333,50      0,00  app_linux_amd64
+
+17:40:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:16     1000      5743   14,00    5,50    0,00    0,50   19,50     6  app_linux_amd64
+
+17:40:14      UID       PID   cswch/s nvcswch/s  Command
+17:40:16     1000      5743    420,50      0,00  app_linux_amd64
+
+17:40:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:18     1000      5743   15,00    5,00    0,00    0,00   20,00     6  app_linux_amd64
+
+17:40:16      UID       PID   cswch/s nvcswch/s  Command
+17:40:18     1000      5743    279,50      0,00  app_linux_amd64
+
+17:40:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:20     1000      5743   14,50    5,00    0,00    0,00   19,50     6  app_linux_amd64
+
+17:40:18      UID       PID   cswch/s nvcswch/s  Command
+17:40:20     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:22     1000      5743   13,50    4,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:40:20      UID       PID   cswch/s nvcswch/s  Command
+17:40:22     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:24     1000      5743   15,50    5,00    0,00    0,00   20,50     6  app_linux_amd64
+
+17:40:22      UID       PID   cswch/s nvcswch/s  Command
+17:40:24     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:26     1000      5743   14,50    4,00    0,00    0,00   18,50     6  app_linux_amd64
+
+17:40:24      UID       PID   cswch/s nvcswch/s  Command
+17:40:26     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:28     1000      5743   14,00    4,00    0,00    0,00   18,00     6  app_linux_amd64
+
+17:40:26      UID       PID   cswch/s nvcswch/s  Command
+17:40:28     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:30     1000      5743   13,50    4,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:40:28      UID       PID   cswch/s nvcswch/s  Command
+17:40:30     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:32     1000      5743   14,00    5,00    0,00    0,00   19,00     6  app_linux_amd64
+
+17:40:30      UID       PID   cswch/s nvcswch/s  Command
+17:40:32     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:34     1000      5743   15,50    4,00    0,00    0,00   19,50     6  app_linux_amd64
+
+17:40:32      UID       PID   cswch/s nvcswch/s  Command
+17:40:34     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:36     1000      5743   14,00    4,50    0,00    0,00   18,50     6  app_linux_amd64
+
+17:40:34      UID       PID   cswch/s nvcswch/s  Command
+17:40:36     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:38     1000      5743   13,50    4,00    0,00    0,00   17,50     6  app_linux_amd64
+
+17:40:36      UID       PID   cswch/s nvcswch/s  Command
+17:40:38     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:40     1000      5743   15,00    4,50    0,00    0,00   19,50     6  app_linux_amd64
+
+17:40:38      UID       PID   cswch/s nvcswch/s  Command
+17:40:40     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:42     1000      5743   14,50    4,50    0,00    0,00   19,00     6  app_linux_amd64
+
+17:40:40      UID       PID   cswch/s nvcswch/s  Command
+17:40:42     1000      5743      0,00      0,00  app_linux_amd64
+
+17:40:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:44     1000      5743   13,50    4,50    0,00    0,00   18,00     5  app_linux_amd64
+
+17:40:42      UID       PID   cswch/s nvcswch/s  Command
+17:40:44     1000      5743    299,50      0,00  app_linux_amd64
+
+17:40:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:46     1000      5743   18,50    5,00    0,00    0,00   23,50     5  app_linux_amd64
+
+17:40:44      UID       PID   cswch/s nvcswch/s  Command
+17:40:46     1000      5743    362,50      0,00  app_linux_amd64
+
+17:40:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:48     1000      5743   14,50    4,50    0,00    0,00   19,00     0  app_linux_amd64
+
+17:40:46      UID       PID   cswch/s nvcswch/s  Command
+17:40:48     1000      5743    431,50      0,00  app_linux_amd64
+
+17:40:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:50     1000      5743   13,00    4,00    0,00    0,00   17,00     5  app_linux_amd64
+
+17:40:48      UID       PID   cswch/s nvcswch/s  Command
+17:40:50     1000      5743    484,00      0,50  app_linux_amd64
+
+17:40:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:52     1000      5743   16,00    4,00    0,00    0,00   20,00     5  app_linux_amd64
+
+17:40:50      UID       PID   cswch/s nvcswch/s  Command
+17:40:52     1000      5743    308,00      0,50  app_linux_amd64
+
+17:40:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:54     1000      5743   21,00    2,50    0,00    0,00   23,50     5  app_linux_amd64
+
+17:40:52      UID       PID   cswch/s nvcswch/s  Command
+17:40:54     1000      5743    364,00      0,00  app_linux_amd64
+
+17:40:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:56     1000      5743   16,00    2,50    0,00    0,00   18,50     6  app_linux_amd64
+
+17:40:54      UID       PID   cswch/s nvcswch/s  Command
+17:40:56     1000      5743    492,00      0,00  app_linux_amd64
+
+17:40:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:40:58     1000      5743   13,50    3,50    0,00    0,00   17,00     6  app_linux_amd64
+
+17:40:56      UID       PID   cswch/s nvcswch/s  Command
+17:40:58     1000      5743    390,50      0,00  app_linux_amd64
+
+17:40:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:00     1000      5743   16,00    4,00    0,00    0,00   20,00     2  app_linux_amd64
+
+17:40:58      UID       PID   cswch/s nvcswch/s  Command
+17:41:00     1000      5743    452,50      0,00  app_linux_amd64
+
+17:41:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:02     1000      5743   13,50    4,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:41:00      UID       PID   cswch/s nvcswch/s  Command
+17:41:02     1000      5743    421,50      0,00  app_linux_amd64
+
+17:41:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:04     1000      5743   15,50    4,50    0,00    0,00   20,00     0  app_linux_amd64
+
+17:41:02      UID       PID   cswch/s nvcswch/s  Command
+17:41:04     1000      5743    458,00      0,00  app_linux_amd64
+
+17:41:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:06     1000      5743   16,00    4,00    0,00    0,00   20,00     7  app_linux_amd64
+
+17:41:04      UID       PID   cswch/s nvcswch/s  Command
+17:41:06     1000      5743    349,00      0,00  app_linux_amd64
+
+17:41:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:08     1000      5743   14,00    4,00    0,00    0,00   18,00     7  app_linux_amd64
+
+17:41:06      UID       PID   cswch/s nvcswch/s  Command
+17:41:08     1000      5743    399,00      0,00  app_linux_amd64
+
+17:41:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:10     1000      5743   16,42    3,98    0,00    0,00   20,40     2  app_linux_amd64
+
+17:41:08      UID       PID   cswch/s nvcswch/s  Command
+17:41:10     1000      5743    365,17      0,00  app_linux_amd64
+
+17:41:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:12     1000      5743   15,50    4,00    0,00    0,00   19,50     2  app_linux_amd64
+
+17:41:10      UID       PID   cswch/s nvcswch/s  Command
+17:41:12     1000      5743    147,00      0,00  app_linux_amd64
+
+17:41:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:14     1000      5743   14,00    4,00    0,00    0,00   18,00     2  app_linux_amd64
+
+17:41:12      UID       PID   cswch/s nvcswch/s  Command
+17:41:14     1000      5743     29,50      0,00  app_linux_amd64
+
+17:41:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:16     1000      5743   14,50    4,00    0,00    0,00   18,50     7  app_linux_amd64
+
+17:41:14      UID       PID   cswch/s nvcswch/s  Command
+17:41:16     1000      5743    220,50      0,00  app_linux_amd64
+
+17:41:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:18     1000      5743   13,50    5,00    0,00    0,00   18,50     7  app_linux_amd64
+
+17:41:16      UID       PID   cswch/s nvcswch/s  Command
+17:41:18     1000      5743    436,50      0,00  app_linux_amd64
+
+17:41:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:20     1000      5743   15,50    3,50    0,00    0,00   19,00     1  app_linux_amd64
+
+17:41:18      UID       PID   cswch/s nvcswch/s  Command
+17:41:20     1000      5743    369,00      0,00  app_linux_amd64
+
+17:41:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:22     1000      5743   15,50    4,00    0,00    0,00   19,50     1  app_linux_amd64
+
+17:41:20      UID       PID   cswch/s nvcswch/s  Command
+17:41:22     1000      5743    492,50      0,00  app_linux_amd64
+
+17:41:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:24     1000      5743   13,50    4,50    0,00    0,00   18,00     1  app_linux_amd64
+
+17:41:22      UID       PID   cswch/s nvcswch/s  Command
+17:41:24     1000      5743    449,00      0,00  app_linux_amd64
+
+17:41:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:26     1000      5743   13,00    5,50    0,00    0,00   18,50     1  app_linux_amd64
+
+17:41:24      UID       PID   cswch/s nvcswch/s  Command
+17:41:26     1000      5743    317,00      0,00  app_linux_amd64
+
+17:41:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:28     1000      5743   14,00    4,00    0,00    0,00   18,00     1  app_linux_amd64
+
+17:41:26      UID       PID   cswch/s nvcswch/s  Command
+17:41:28     1000      5743    387,00      0,00  app_linux_amd64
+
+17:41:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:30     1000      5743   16,00    5,00    0,00    0,00   21,00     1  app_linux_amd64
+
+17:41:28      UID       PID   cswch/s nvcswch/s  Command
+17:41:30     1000      5743    347,00      0,00  app_linux_amd64
+
+17:41:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:32     1000      5743   16,50    3,50    0,00    0,00   20,00     1  app_linux_amd64
+
+17:41:30      UID       PID   cswch/s nvcswch/s  Command
+17:41:32     1000      5743    384,00      0,00  app_linux_amd64
+
+17:41:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:34     1000      5743   13,50    5,00    0,00    0,00   18,50     3  app_linux_amd64
+
+17:41:32      UID       PID   cswch/s nvcswch/s  Command
+17:41:34     1000      5743    449,50      0,00  app_linux_amd64
+
+17:41:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:36     1000      5743   16,50    4,00    0,00    0,00   20,50     3  app_linux_amd64
+
+17:41:34      UID       PID   cswch/s nvcswch/s  Command
+17:41:36     1000      5743    365,50      0,00  app_linux_amd64
+
+17:41:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:38     1000      5743   17,50    3,50    0,00    0,00   21,00     3  app_linux_amd64
+
+17:41:36      UID       PID   cswch/s nvcswch/s  Command
+17:41:38     1000      5743    111,50      0,00  app_linux_amd64
+
+17:41:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:40     1000      5743   14,50    5,00    0,00    0,00   19,50     3  app_linux_amd64
+
+17:41:38      UID       PID   cswch/s nvcswch/s  Command
+17:41:40     1000      5743      0,50      0,00  app_linux_amd64
+
+17:41:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:42     1000      5743   16,00    3,50    0,00    0,00   19,50     3  app_linux_amd64
+
+17:41:40      UID       PID   cswch/s nvcswch/s  Command
+17:41:42     1000      5743    179,00      0,00  app_linux_amd64
+
+17:41:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:44     1000      5743   13,50    4,50    0,00    0,00   18,00     6  app_linux_amd64
+
+17:41:42      UID       PID   cswch/s nvcswch/s  Command
+17:41:44     1000      5743    415,50      0,00  app_linux_amd64
+
+17:41:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:46     1000      5743   17,00    3,50    0,00    0,00   20,50     6  app_linux_amd64
+
+17:41:44      UID       PID   cswch/s nvcswch/s  Command
+17:41:46     1000      5743    443,50      0,00  app_linux_amd64
+
+17:41:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:48     1000      5743   14,00    4,50    0,00    0,00   18,50     2  app_linux_amd64
+
+17:41:46      UID       PID   cswch/s nvcswch/s  Command
+17:41:48     1000      5743    446,00      0,00  app_linux_amd64
+
+17:41:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:50     1000      5743   19,50    4,00    0,00    0,00   23,50     2  app_linux_amd64
+
+17:41:48      UID       PID   cswch/s nvcswch/s  Command
+17:41:50     1000      5743    536,50      0,00  app_linux_amd64
+
+17:41:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:52     1000      5743   16,50    4,00    0,00    0,00   20,50     4  app_linux_amd64
+
+17:41:50      UID       PID   cswch/s nvcswch/s  Command
+17:41:52     1000      5743    506,50      0,00  app_linux_amd64
+
+17:41:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:54     1000      5743   16,00    4,00    0,00    0,00   20,00     4  app_linux_amd64
+
+17:41:52      UID       PID   cswch/s nvcswch/s  Command
+17:41:54     1000      5743    277,00      0,00  app_linux_amd64
+
+17:41:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:56     1000      5743   15,50    4,50    0,00    0,00   20,00     4  app_linux_amd64
+
+17:41:54      UID       PID   cswch/s nvcswch/s  Command
+17:41:56     1000      5743    361,00      0,00  app_linux_amd64
+
+17:41:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:41:58     1000      5743   18,00    3,50    0,00    0,00   21,50     2  app_linux_amd64
+
+17:41:56      UID       PID   cswch/s nvcswch/s  Command
+17:41:58     1000      5743    261,50      0,00  app_linux_amd64
+
+17:41:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:00     1000      5743   13,50    4,50    0,00    0,00   18,00     2  app_linux_amd64
+
+17:41:58      UID       PID   cswch/s nvcswch/s  Command
+17:42:00     1000      5743    333,50      0,00  app_linux_amd64
+
+17:42:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:02     1000      5743   15,00    3,00    0,00    0,00   18,00     2  app_linux_amd64
+
+17:42:00      UID       PID   cswch/s nvcswch/s  Command
+17:42:02     1000      5743     64,50      0,00  app_linux_amd64
+
+17:42:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:04     1000      5743   16,50    5,00    0,00    0,00   21,50     2  app_linux_amd64
+
+17:42:02      UID       PID   cswch/s nvcswch/s  Command
+17:42:04     1000      5743      0,00      0,00  app_linux_amd64
+
+17:42:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:06     1000      5743   15,50    4,50    0,00    0,00   20,00     4  app_linux_amd64
+
+17:42:04      UID       PID   cswch/s nvcswch/s  Command
+17:42:06     1000      5743    442,50      0,00  app_linux_amd64
+
+17:42:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:08     1000      5743   14,00    5,50    0,00    0,00   19,50     1  app_linux_amd64
+
+17:42:06      UID       PID   cswch/s nvcswch/s  Command
+17:42:08     1000      5743    397,00      0,50  app_linux_amd64
+
+17:42:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:10     1000      5743   15,00    3,50    0,00    0,00   18,50     6  app_linux_amd64
+
+17:42:08      UID       PID   cswch/s nvcswch/s  Command
+17:42:10     1000      5743    315,00      0,00  app_linux_amd64
+
+17:42:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:12     1000      5743   15,50    5,50    0,00    0,00   21,00     6  app_linux_amd64
+
+17:42:10      UID       PID   cswch/s nvcswch/s  Command
+17:42:12     1000      5743      0,00      0,00  app_linux_amd64
+
+17:42:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:14     1000      5743   20,50    3,00    0,00    0,00   23,50     6  app_linux_amd64
+
+17:42:12      UID       PID   cswch/s nvcswch/s  Command
+17:42:14     1000      5743    227,00      0,00  app_linux_amd64
+
+17:42:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:16     1000      5743   16,00    4,50    0,00    0,00   20,50     0  app_linux_amd64
+
+17:42:14      UID       PID   cswch/s nvcswch/s  Command
+17:42:16     1000      5743    391,00      0,00  app_linux_amd64
+
+17:42:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:18     1000      5743   14,50    4,50    0,00    0,00   19,00     2  app_linux_amd64
+
+17:42:16      UID       PID   cswch/s nvcswch/s  Command
+17:42:18     1000      5743    443,50      0,00  app_linux_amd64
+
+17:42:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:20     1000      5743   17,50    3,50    0,00    0,00   21,00     5  app_linux_amd64
+
+17:42:18      UID       PID   cswch/s nvcswch/s  Command
+17:42:20     1000      5743    256,00      0,00  app_linux_amd64
+
+17:42:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:22     1000      5743   14,00    5,00    0,00    0,00   19,00     5  app_linux_amd64
+
+17:42:20      UID       PID   cswch/s nvcswch/s  Command
+17:42:22     1000      5743     69,50      0,00  app_linux_amd64
+
+17:42:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:24     1000      5743   17,00    4,50    0,00    0,00   21,50     5  app_linux_amd64
+
+17:42:22      UID       PID   cswch/s nvcswch/s  Command
+17:42:24     1000      5743      0,00      0,00  app_linux_amd64
+
+17:42:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:26     1000      5743   12,50    5,50    0,00    0,00   18,00     2  app_linux_amd64
+
+17:42:24      UID       PID   cswch/s nvcswch/s  Command
+17:42:26     1000      5743    504,50      0,00  app_linux_amd64
+
+17:42:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:28     1000      5743   15,50    4,50    0,00    0,00   20,00     4  app_linux_amd64
+
+17:42:26      UID       PID   cswch/s nvcswch/s  Command
+17:42:28     1000      5743    408,00      0,00  app_linux_amd64
+
+17:42:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:30     1000      5743   14,00    5,00    0,00    0,00   19,00     4  app_linux_amd64
+
+17:42:28      UID       PID   cswch/s nvcswch/s  Command
+17:42:30     1000      5743    293,50      0,00  app_linux_amd64
+
+17:42:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:32     1000      5743   25,50    4,00    0,00    0,00   29,50     3  app_linux_amd64
+
+17:42:30      UID       PID   cswch/s nvcswch/s  Command
+17:42:32     1000      5743    414,50      1,00  app_linux_amd64
+
+17:42:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:34     1000      5743   21,00    3,50    0,00    0,00   24,50     3  app_linux_amd64
+
+17:42:32      UID       PID   cswch/s nvcswch/s  Command
+17:42:34     1000      5743     78,00      0,00  app_linux_amd64
+
+17:42:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:36     1000      5743   20,50    4,50    0,00    0,00   25,00     3  app_linux_amd64
+
+17:42:34      UID       PID   cswch/s nvcswch/s  Command
+17:42:36     1000      5743    268,50      0,00  app_linux_amd64
+
+17:42:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:38     1000      5743   16,00    4,50    0,00    0,00   20,50     3  app_linux_amd64
+
+17:42:36      UID       PID   cswch/s nvcswch/s  Command
+17:42:38     1000      5743    230,50      0,00  app_linux_amd64
+
+17:42:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:40     1000      5743   23,50    4,50    0,00    0,00   28,00     3  app_linux_amd64
+
+17:42:38      UID       PID   cswch/s nvcswch/s  Command
+17:42:40     1000      5743    250,00      0,00  app_linux_amd64
+
+17:42:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:42     1000      5743   15,50   20,50    0,00    0,00   36,00     3  app_linux_amd64
+
+17:42:40      UID       PID   cswch/s nvcswch/s  Command
+17:42:42     1000      5743    206,00      0,00  app_linux_amd64
+
+17:42:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:44     1000      5743    9,00   36,00    0,00    0,00   45,00     5  app_linux_amd64
+
+17:42:42      UID       PID   cswch/s nvcswch/s  Command
+17:42:44     1000      5743    357,50      0,00  app_linux_amd64
+
+17:42:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:46     1000      5743    8,00   35,50    0,00    0,00   43,50     5  app_linux_amd64
+
+17:42:44      UID       PID   cswch/s nvcswch/s  Command
+17:42:46     1000      5743    481,00      0,00  app_linux_amd64
+
+17:42:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:48     1000      5743    9,00   33,50    0,00    0,00   42,50     5  app_linux_amd64
+
+17:42:46      UID       PID   cswch/s nvcswch/s  Command
+17:42:48     1000      5743    424,00      0,00  app_linux_amd64
+
+17:42:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:50     1000      5743   10,00   34,50    0,00    0,00   44,50     0  app_linux_amd64
+
+17:42:48      UID       PID   cswch/s nvcswch/s  Command
+17:42:50     1000      5743    681,00      0,00  app_linux_amd64
+
+17:42:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:52     1000      5743    9,50   32,50    0,00    0,00   42,00     6  app_linux_amd64
+
+17:42:50      UID       PID   cswch/s nvcswch/s  Command
+17:42:52     1000      5743    358,50      0,50  app_linux_amd64
+
+17:42:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:54     1000      5743   10,00   33,00    0,00    0,00   43,00     6  app_linux_amd64
+
+17:42:52      UID       PID   cswch/s nvcswch/s  Command
+17:42:54     1000      5743    971,00      0,00  app_linux_amd64
+
+17:42:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:56     1000      5743   10,00   32,00    0,00    0,00   42,00     1  app_linux_amd64
+
+17:42:54      UID       PID   cswch/s nvcswch/s  Command
+17:42:56     1000      5743   5634,00      0,00  app_linux_amd64
+
+17:42:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:42:58     1000      5743    7,50   32,50    0,00    0,00   40,00     1  app_linux_amd64
+
+17:42:56      UID       PID   cswch/s nvcswch/s  Command
+17:42:58     1000      5743   1570,00      0,50  app_linux_amd64
+
+17:42:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:00     1000      5743    8,00   31,00    0,00    0,00   39,00     1  app_linux_amd64
+
+17:42:58      UID       PID   cswch/s nvcswch/s  Command
+17:43:00     1000      5743    235,50      0,50  app_linux_amd64
+
+17:43:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:02     1000      5743    9,00   33,00    0,00    0,00   42,00     4  app_linux_amd64
+
+17:43:00      UID       PID   cswch/s nvcswch/s  Command
+17:43:02     1000      5743    427,00      0,00  app_linux_amd64
+
+17:43:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:04     1000      5743    9,50   33,50    0,00    0,00   43,00     5  app_linux_amd64
+
+17:43:02      UID       PID   cswch/s nvcswch/s  Command
+17:43:04     1000      5743   3602,50      0,00  app_linux_amd64
+
+17:43:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:06     1000      5743    7,00   36,00    0,00    0,50   43,00     4  app_linux_amd64
+
+17:43:04      UID       PID   cswch/s nvcswch/s  Command
+17:43:06     1000      5743   4343,00      0,00  app_linux_amd64
+
+17:43:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:08     1000      5743    8,50   34,50    0,00    0,00   43,00     4  app_linux_amd64
+
+17:43:06      UID       PID   cswch/s nvcswch/s  Command
+17:43:08     1000      5743   1534,50      0,00  app_linux_amd64
+
+17:43:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:10     1000      5743   10,00   32,00    0,00    0,00   42,00     6  app_linux_amd64
+
+17:43:08      UID       PID   cswch/s nvcswch/s  Command
+17:43:10     1000      5743    441,00      0,50  app_linux_amd64
+
+17:43:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:12     1000      5743   10,00   18,00    0,00    0,00   28,00     6  app_linux_amd64
+
+17:43:10      UID       PID   cswch/s nvcswch/s  Command
+17:43:12     1000      5743    340,50      0,00  app_linux_amd64
+
+17:43:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:14     1000      5743    8,50   30,00    0,00    0,00   38,50     0  app_linux_amd64
+
+17:43:12      UID       PID   cswch/s nvcswch/s  Command
+17:43:14     1000      5743    365,50      0,00  app_linux_amd64
+
+17:43:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:16     1000      5743   10,50   35,00    0,00    0,00   45,50     0  app_linux_amd64
+
+17:43:14      UID       PID   cswch/s nvcswch/s  Command
+17:43:16     1000      5743    192,00      0,50  app_linux_amd64
+
+17:43:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:18     1000      5743    9,00   35,00    0,00    0,00   44,00     0  app_linux_amd64
+
+17:43:16      UID       PID   cswch/s nvcswch/s  Command
+17:43:18     1000      5743    405,50      0,00  app_linux_amd64
+
+17:43:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:20     1000      5743    9,00   30,50    0,00    0,00   39,50     3  app_linux_amd64
+
+17:43:18      UID       PID   cswch/s nvcswch/s  Command
+17:43:20     1000      5743    344,50      0,00  app_linux_amd64
+
+17:43:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:22     1000      5743    9,50   32,00    0,00    0,00   41,50     5  app_linux_amd64
+
+17:43:20      UID       PID   cswch/s nvcswch/s  Command
+17:43:22     1000      5743    458,00      0,00  app_linux_amd64
+
+17:43:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:24     1000      5743   11,00   34,50    0,00    0,00   45,50     5  app_linux_amd64
+
+17:43:22      UID       PID   cswch/s nvcswch/s  Command
+17:43:24     1000      5743    445,50      0,00  app_linux_amd64
+
+17:43:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:26     1000      5743    9,00   33,00    0,00    0,00   42,00     5  app_linux_amd64
+
+17:43:24      UID       PID   cswch/s nvcswch/s  Command
+17:43:26     1000      5743    230,00      0,00  app_linux_amd64
+
+17:43:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:28     1000      5743   11,00   29,50    0,00    0,00   40,50     5  app_linux_amd64
+
+17:43:26      UID       PID   cswch/s nvcswch/s  Command
+17:43:28     1000      5743    386,50      0,00  app_linux_amd64
+
+17:43:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:30     1000      5743    7,50   31,00    0,00    0,00   38,50     3  app_linux_amd64
+
+17:43:28      UID       PID   cswch/s nvcswch/s  Command
+17:43:30     1000      5743    184,00      0,00  app_linux_amd64
+
+17:43:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:32     1000      5743   10,00   24,00    0,00    0,00   34,00     3  app_linux_amd64
+
+17:43:30      UID       PID   cswch/s nvcswch/s  Command
+17:43:32     1000      5743    354,00      0,00  app_linux_amd64
+
+17:43:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:34     1000      5743    9,00   31,50    0,00    0,00   40,50     3  app_linux_amd64
+
+17:43:32      UID       PID   cswch/s nvcswch/s  Command
+17:43:34     1000      5743    418,50      0,00  app_linux_amd64
+
+17:43:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:36     1000      5743    9,00   32,50    0,00    0,00   41,50     4  app_linux_amd64
+
+17:43:34      UID       PID   cswch/s nvcswch/s  Command
+17:43:36     1000      5743    552,50      0,50  app_linux_amd64
+
+17:43:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:38     1000      5743   11,00   29,50    0,00    0,00   40,50     2  app_linux_amd64
+
+17:43:36      UID       PID   cswch/s nvcswch/s  Command
+17:43:38     1000      5743    508,50      0,00  app_linux_amd64
+
+17:43:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:40     1000      5743    9,00   33,00    0,00    0,00   42,00     6  app_linux_amd64
+
+17:43:38      UID       PID   cswch/s nvcswch/s  Command
+17:43:40     1000      5743    367,00      0,50  app_linux_amd64
+
+17:43:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:42     1000      5743    9,50   33,50    0,00    0,00   43,00     3  app_linux_amd64
+
+17:43:40      UID       PID   cswch/s nvcswch/s  Command
+17:43:42     1000      5743    301,00      0,00  app_linux_amd64
+
+17:43:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:44     1000      5743    8,50   35,00    0,00    0,00   43,50     2  app_linux_amd64
+
+17:43:42      UID       PID   cswch/s nvcswch/s  Command
+17:43:44     1000      5743    157,50      0,00  app_linux_amd64
+
+17:43:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:46     1000      5743   10,00   30,50    0,00    0,00   40,50     5  app_linux_amd64
+
+17:43:44      UID       PID   cswch/s nvcswch/s  Command
+17:43:46     1000      5743    472,50      0,00  app_linux_amd64
+
+17:43:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:48     1000      5743    8,50   32,50    0,00    0,00   41,00     5  app_linux_amd64
+
+17:43:46      UID       PID   cswch/s nvcswch/s  Command
+17:43:48     1000      5743    461,00      0,00  app_linux_amd64
+
+17:43:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:50     1000      5743    9,50   29,50    0,00    0,00   39,00     4  app_linux_amd64
+
+17:43:48      UID       PID   cswch/s nvcswch/s  Command
+17:43:50     1000      5743    392,50      0,00  app_linux_amd64
+
+17:43:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:52     1000      5743   11,00   31,00    0,00    0,00   42,00     3  app_linux_amd64
+
+17:43:50      UID       PID   cswch/s nvcswch/s  Command
+17:43:52     1000      5743    417,00      0,00  app_linux_amd64
+
+17:43:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:54     1000      5743   10,00   31,00    0,00    0,00   41,00     1  app_linux_amd64
+
+17:43:52      UID       PID   cswch/s nvcswch/s  Command
+17:43:54     1000      5743    447,00      0,00  app_linux_amd64
+
+17:43:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:56     1000      5743    9,00   31,50    0,00    0,00   40,50     2  app_linux_amd64
+
+17:43:54      UID       PID   cswch/s nvcswch/s  Command
+17:43:56     1000      5743    426,00      0,00  app_linux_amd64
+
+17:43:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:43:58     1000      5743   11,00   28,50    0,00    0,00   39,50     3  app_linux_amd64
+
+17:43:56      UID       PID   cswch/s nvcswch/s  Command
+17:43:58     1000      5743   4137,50      0,00  app_linux_amd64
+
+17:43:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:00     1000      5743   10,00   18,50    0,00    0,00   28,50     3  app_linux_amd64
+
+17:43:58      UID       PID   cswch/s nvcswch/s  Command
+17:44:00     1000      5743   1841,00      0,00  app_linux_amd64
+
+17:44:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:02     1000      5743    9,50   31,50    0,00    0,00   41,00     0  app_linux_amd64
+
+17:44:00      UID       PID   cswch/s nvcswch/s  Command
+17:44:02     1000      5743   4503,00      0,00  app_linux_amd64
+
+17:44:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:04     1000      5743   12,50   28,00    0,00    0,00   40,50     7  app_linux_amd64
+
+17:44:02      UID       PID   cswch/s nvcswch/s  Command
+17:44:04     1000      5743   4432,00      0,00  app_linux_amd64
+
+17:44:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:06     1000      5743   10,00   28,00    0,00    0,00   38,00     7  app_linux_amd64
+
+17:44:04      UID       PID   cswch/s nvcswch/s  Command
+17:44:06     1000      5743    878,50      0,00  app_linux_amd64
+
+17:44:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:08     1000      5743   11,00   28,00    0,00    0,00   39,00     7  app_linux_amd64
+
+17:44:06      UID       PID   cswch/s nvcswch/s  Command
+17:44:08     1000      5743    447,00      0,50  app_linux_amd64
+
+17:44:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:10     1000      5743    8,00   27,50    0,00    0,00   35,50     7  app_linux_amd64
+
+17:44:08      UID       PID   cswch/s nvcswch/s  Command
+17:44:10     1000      5743    413,50      0,00  app_linux_amd64
+
+17:44:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:12     1000      5743    8,00   31,50    0,00    0,00   39,50     7  app_linux_amd64
+
+17:44:10      UID       PID   cswch/s nvcswch/s  Command
+17:44:12     1000      5743    385,00      0,00  app_linux_amd64
+
+17:44:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:14     1000      5743    8,00   28,50    0,00    0,00   36,50     7  app_linux_amd64
+
+17:44:12      UID       PID   cswch/s nvcswch/s  Command
+17:44:14     1000      5743    328,00      0,00  app_linux_amd64
+
+17:44:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:16     1000      5743    9,00   32,50    0,00    0,00   41,50     3  app_linux_amd64
+
+17:44:14      UID       PID   cswch/s nvcswch/s  Command
+17:44:16     1000      5743    392,50      0,00  app_linux_amd64
+
+17:44:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:18     1000      5743    6,50   70,00    0,00    0,00   76,50     0  app_linux_amd64
+
+17:44:16      UID       PID   cswch/s nvcswch/s  Command
+17:44:18     1000      5743    351,00      0,00  app_linux_amd64
+
+17:44:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:20     1000      5743    7,00   50,50    0,00    0,00   57,50     0  app_linux_amd64
+
+17:44:18      UID       PID   cswch/s nvcswch/s  Command
+17:44:20     1000      5743      0,00      0,00  app_linux_amd64
+
+17:44:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:22     1000      5743    5,50   67,50    0,00    0,00   73,00     2  app_linux_amd64
+
+17:44:20      UID       PID   cswch/s nvcswch/s  Command
+17:44:22     1000      5743   1351,00      3,00  app_linux_amd64
+
+17:44:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:24     1000      5743    6,00   77,00    0,00    0,00   83,00     4  app_linux_amd64
+
+17:44:22      UID       PID   cswch/s nvcswch/s  Command
+17:44:24     1000      5743   2383,00      3,00  app_linux_amd64
+
+17:44:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:26     1000      5743    0,00  223,56    0,00    5,77  223,56     1  app_linux_amd64
+
+17:44:24      UID       PID   cswch/s nvcswch/s  Command
+17:44:26     1000      5743    831,25     63,94  app_linux_amd64
+
+17:44:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:28     1000      5743    0,00  257,73    0,00   28,87  257,73     4  app_linux_amd64
+
+17:44:26      UID       PID   cswch/s nvcswch/s  Command
+17:44:28     1000      5743    576,80    187,11  app_linux_amd64
+
+17:44:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:30     1000      5743    0,00  297,55    0,00   24,02  297,55     3  app_linux_amd64
+
+17:44:28      UID       PID   cswch/s nvcswch/s  Command
+17:44:30     1000      5743    843,63    187,75  app_linux_amd64
+
+17:44:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+17:44:33     1000      5743    0,00  250,97    0,00   22,33  250,97     3  app_linux_amd64
+
+17:44:30      UID       PID   cswch/s nvcswch/s  Command
+17:44:33     1000      5743    543,69    171,84  app_linux_amd64
+
+17:44:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+17:44:33      UID       PID   cswch/s nvcswch/s  Command
