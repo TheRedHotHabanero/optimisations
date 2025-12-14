@@ -1,0 +1,242 @@
+===== OS =====
+Linux theredhothabanero 6.8.0-87-generic #88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+PRETTY_NAME="Ubuntu 22.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.5 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+
+===== HOSTNAMECTL =====
+ Static hostname: theredhothabanero
+       Icon name: computer-laptop
+         Chassis: laptop
+      Machine ID: 6daddbac8c82453b9b91c243f6e08ad9
+         Boot ID: 31a00a8fcfab4c81aa6793d824e08ad7
+Operating System: Ubuntu 22.04.5 LTS
+          Kernel: Linux 6.8.0-87-generic
+    Architecture: x86-64
+ Hardware Vendor: Acer
+  Hardware Model: Swift SF314-41G
+
+===== CPU (lscpu) =====
+Архитектура:                          x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        43 bits physical, 48 bits virtual
+Порядок байт:                         Little Endian
+CPU(s):                               8
+On-line CPU(s) list:                  0-7
+ID прроизводителя:                    AuthenticAMD
+Имя модели:                           AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+Семейство ЦПУ:                        23
+Модель:                               24
+Потоков на ядро:                      2
+Ядер на сокет:                        4
+Сокетов:                              1
+Степпинг:                             1
+Frequency boost:                      enabled
+CPU max MHz:                          2100,0000
+CPU min MHz:                          1400,0000
+BogoMIPS:                             4192.03
+Флаги:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca sev sev_es ibpb_exit_to_user
+Виртуализация:                        AMD-V
+L1d cache:                            128 KiB (4 instances)
+L1i cache:                            256 KiB (4 instances)
+L2 cache:                             2 MiB (4 instances)
+L3 cache:                             4 MiB (1 instance)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-7
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Mitigation; untrained return thunk; SMT vulnerable
+Vulnerability Spec rstack overflow:   Mitigation; Safe RET
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Retpolines; IBPB conditional; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+Vulnerability Vmscape:                Mitigation; IBPB before exit to userspace
+
+===== CPUINFO (/proc/cpuinfo, first CPU) =====
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 23
+model		: 24
+model name	: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx
+stepping	: 1
+microcode	: 0x8108102
+cpu MHz		: 2383.893
+cache size	: 512 KB
+physical id	: 0
+siblings	: 8
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca sev sev_es ibpb_exit_to_user
+bugs		: sysret_ss_attrs null_seg spectre_v1 spectre_v2 spec_store_bypass retbleed smt_rsb srso div0 ibpb_no_ret vmscape
+bogomips	: 4192.03
+TLB size	: 2560 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management: ts ttp tm hwpstate eff_freq_ro [13] [14]
+
+
+===== MEMORY (free -h) =====
+               total        used        free      shared  buff/cache   available
+Память:      5,7Gi       3,4Gi       711Mi       144Mi       1,7Gi       1,9Gi
+Подкачка:      2,0Gi       1,5Gi       554Mi
+
+===== MEMINFO (/proc/meminfo) =====
+MemTotal:        5991952 kB
+MemFree:          728344 kB
+MemAvailable:    2017812 kB
+Buffers:           76652 kB
+Cached:          1304784 kB
+SwapCached:        33764 kB
+Active:          2062552 kB
+Inactive:        2251192 kB
+Active(anon):    1526332 kB
+Inactive(anon):  1554356 kB
+Active(file):     536220 kB
+Inactive(file):   696836 kB
+Unevictable:          48 kB
+Mlocked:              48 kB
+SwapTotal:       2097148 kB
+SwapFree:         568060 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:               228 kB
+Writeback:             0 kB
+AnonPages:       2901092 kB
+Mapped:           775196 kB
+Shmem:            147940 kB
+KReclaimable:     356892 kB
+Slab:             588476 kB
+SReclaimable:     356892 kB
+SUnreclaim:       231584 kB
+KernelStack:       19696 kB
+PageTables:        64092 kB
+SecPageTables:         0 kB
+
+===== DISKS (lsblk) =====
+NAME        MODEL                SIZE TYPE MOUNTPOINT
+loop0                              4K loop /snap/bare/5
+loop1                          330,3M loop /snap/code/213
+loop2                          330,3M loop /snap/code/214
+loop3                           63,8M loop /snap/core20/2669
+loop4                           63,8M loop /snap/core20/2682
+loop5                           73,9M loop /snap/core22/2139
+loop6                             74M loop /snap/core22/2163
+loop7                          250,1M loop /snap/firefox/7355
+loop8                          250,6M loop /snap/firefox/7423
+loop9                          349,7M loop /snap/gnome-3-38-2004/143
+loop10                         248,8M loop /snap/gnome-3-38-2004/99
+loop11                           516M loop /snap/gnome-42-2204/202
+loop12                         516,2M loop /snap/gnome-42-2204/226
+loop13                          81,3M loop /snap/gtk-common-themes/1534
+loop14                          91,7M loop /snap/gtk-common-themes/1535
+loop15                          12,2M loop /snap/snap-store/1216
+loop16                          45,9M loop /snap/snap-store/575
+loop17                          50,8M loop /snap/snapd/25202
+loop18                          50,9M loop /snap/snapd/25577
+loop19                           568K loop /snap/snapd-desktop-integration/253
+loop20                           576K loop /snap/snapd-desktop-integration/315
+nvme0n1     HFM512GDJTNG-8310A 476,9G disk 
+├─nvme0n1p1                        1G part /boot/efi
+├─nvme0n1p2                    121,4G part 
+├─nvme0n1p3                      352G part /
+└─nvme0n1p4                      2,6G part 
+
+===== FILESYSTEM USAGE (df -Th) =====
+Файл.система   Тип      Размер Использовано  Дост Использовано% Cмонтировано в
+tmpfs          tmpfs      586M         2,1M  584M            1% /run
+/dev/nvme0n1p3 ext4       346G          80G  249G           25% /
+tmpfs          tmpfs      2,9G         151M  2,8G            6% /dev/shm
+tmpfs          tmpfs      5,0M         4,0K  5,0M            1% /run/lock
+efivarfs       efivarfs   148K         110K   34K           77% /sys/firmware/efi/efivars
+/dev/nvme0n1p1 vfat      1020M          33M  988M            4% /boot/efi
+tmpfs          tmpfs      586M         156K  585M            1% /run/user/1000
+
+===== PCI DEVICES (lspci) =====
+00:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Root Complex
+00:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 IOMMU
+00:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+00:01.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+00:01.3 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+00:01.7 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+00:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+00:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus A
+00:14.0 SMBus: Advanced Micro Devices, Inc. [AMD] FCH SMBus Controller (rev 61)
+00:14.3 ISA bridge: Advanced Micro Devices, Inc. [AMD] FCH LPC Bridge (rev 51)
+00:18.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 0
+00:18.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 1
+00:18.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 2
+00:18.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 3
+00:18.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 4
+00:18.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 5
+00:18.6 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 6
+00:18.7 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 7
+01:00.0 Display controller: Advanced Micro Devices, Inc. [AMD/ATI] Lexa [Radeon 540X/550X/630 / RX 640 / E9171 MCM] (rev c3)
+02:00.0 Network controller: Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter (rev 32)
+03:00.0 Non-Volatile memory controller: SK hynix BC501 NVMe Solid State Drive
+04:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] (rev c2)
+04:00.1 Audio device: Advanced Micro Devices, Inc. [AMD/ATI] Raven/Raven2/Fenghuang HDMI/DP Audio Controller
+04:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 10h-1fh) Platform Security Processor
+04:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1
+04:00.4 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1
+04:00.5 Multimedia controller: Advanced Micro Devices, Inc. [AMD] Raven/Raven2/FireFlight/Renoir Audio Processor
+04:00.6 Audio device: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 10h-1fh) HD Audio Controller
+
+===== USB DEVICES (lsusb) =====
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 004: ID 04ca:3016 Lite-On Technology Corp. 
+Bus 003 Device 003: ID 1c7a:0570 LighTuning Technology Inc. EgisTec Touch Fingerprint Sensor
+Bus 003 Device 002: ID 05e3:0608 Genesys Logic, Inc. Hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 004: ID 04f2:b5c5 Chicony Electronics Co., Ltd HD WebCam
+Bus 001 Device 003: ID 09da:0024 A4Tech Co., Ltd. A4tech 2.4G Wireless Device
+Bus 001 Device 002: ID 12d1:10d8 Huawei Technologies Co., Ltd. HUAWEI Mouse CD26-R
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+
+===== NETWORK (ip a) =====
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: wlp2s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+    link/ether e4:aa:ea:8d:c0:ab brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.11/24 brd 192.168.1.255 scope global dynamic noprefixroute wlp2s0
+       valid_lft 83195sec preferred_lft 83195sec
+    inet6 fe80::38e0:71f7:7331:9d35/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: tailscale0: <POINTOPOINT,MULTICAST,NOARP,UP,LOWER_UP> mtu 1280 qdisc fq_codel state UNKNOWN group default qlen 500
+    link/none 
+    inet6 fe80::99aa:4616:a625:7442/64 scope link stable-privacy 
+       valid_lft forever preferred_lft forever
+
+===== ROUTES (ip r) =====
+default via 192.168.1.1 dev wlp2s0 proto dhcp metric 600 
+169.254.0.0/16 dev wlp2s0 scope link metric 1000 
+192.168.1.0/24 dev wlp2s0 proto kernel scope link src 192.168.1.11 metric 600 
+
